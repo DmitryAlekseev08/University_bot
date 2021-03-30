@@ -17,7 +17,15 @@ TG_TOKEN = "1318466039:AAEW3iVZehtjCSB4BBcuB3jPsYb6XRgiPYE"
 logging.config.fileConfig('logging.conf')
 logger = logging.getLogger("Your_assistant")
 
+# Статистика по ответам бота (НС, генеративная модель, заглушки)
 stats = {'intent': 0, 'generative': 0, 'stub': 0}
+# Документы для отправки пользователю
+documents = {'проверка ВКР': ['./documents/положение_о_порядке_проверки.pdf',
+                              ' Положение о порядке проверки выпускных квалификационных работ.'],
+             'вид деятельности': ['./documents/положение_по_виду_деятельности.pdf',
+                                  ' Положение по виду деятельности о выпускной квалификационной работе.'],
+             'список литературы': ['./documents/список_литературы.pdf',
+                                   ' Общие требования и правила оформления списка литературы.']}
 
 
 # Подготовка текста
@@ -138,7 +146,6 @@ def get_answer(text):
     intent = get_intent(text)
 
     # Формирование ответа
-
     # Правила
     if intent:
         stats['intent'] += 1
@@ -161,7 +168,7 @@ def user_help(bot: Bot, update: Update):
                               '  Тематика данного бота:\n'
                               '‣ нормконтроль (что из себя представляет, что необходимо иметь при себе);\n'
                               '‣ комплектация пояснительной записки (титульный лист, задание к ВКР, аннотация, '
-                              'содержание, сама работа, списко литературы, приложения), необходимые подписи;\n'
+                              'содержание, сама работа, список литературы, приложения), необходимые подписи;\n'
                               '‣ компакт-диски (необходимое количество, информация для записи на диск);\n'
                               '‣ графическая часть и раздаточный материал (что представляет из себя, необходимые '
                               'подписи);\n'
@@ -169,15 +176,26 @@ def user_help(bot: Bot, update: Update):
                               '‣ отзыв руководителя (кем составляется);\n'
                               '‣ рецензия (кем готовится, необходимые подписи и печати);\n'
                               '‣ что необходимо сделать после прохождения нормконтроля.\n'
+                              '  Чтобы получить все необходимые нормативные документы, наберите команду /documents.\n'
                               'Задавай интересующие тебя вопросы.😉', reply_markup=reply_markup_help(), )
 
 
-# Клавиатура с кнопкой /help
+# Команда /documents для бота
+def user_documents(bot: Bot, update: Update):
+    logger.info("Sending documents")
+    for value in documents.values():
+        with open(value[0], 'rb') as file:
+            bot.send_document(chat_id=update.message.chat_id, document=file,
+                              caption=value[1])
+
+
+# Клавиатура с кнопками /help, /documents
 def reply_markup_help():
     reply_markup = ReplyKeyboardMarkup(
         keyboard=[
             [
                 KeyboardButton(text="/help"),
+                KeyboardButton(text="/documents"),
             ],
         ],
         resize_keyboard=True
@@ -185,28 +203,43 @@ def reply_markup_help():
     return reply_markup
 
 
+# Отправка документов пользователю
+def send_document(bot: Bot, update: Update, text):
+    if text.find('Список литературы', 0, 18) != -1:
+        logger.info("Sending document(-s)")
+        with open(documents['список литературы'][0], 'rb') as file:
+            bot.send_document(chat_id=update.message.chat_id, document=file, caption=documents['список литературы'][1])
+    if text.find('Нормоконтроль', 0, 14) != -1:
+        logger.info("Sending document(-s)")
+        with open(documents['проверка ВКР'][0], 'rb') as file:
+            bot.send_document(chat_id=update.message.chat_id, document=file, caption=documents['проверка ВКР'][1])
+        with open(documents['вид деятельности'][0], 'rb') as file:
+            bot.send_document(chat_id=update.message.chat_id, document=file, caption=documents['вид деятельности'][1])
+
+
 def bot_answer(bot: Bot, update: Update, text):
     text = correct_spelling(text)
     answer = get_answer(text)
     count = sum(stats.values())
-    print(f'Question: {update.message.text}  Answer: {answer}')
+    print(f'Question: {text}  Answer: {answer}')
     print(f'{stats["intent"] / count * 100:.2f} intent, '
           f'{stats["generative"] / count * 100:.2f} generative, '
           f'{stats["stub"] / count * 100:.2f} stub, '
           f'count={count}')
     print()
     update.message.reply_text(answer, reply_markup=reply_markup_help(), )
-    # with open('Dataset.txt', 'rb') as file:
-    #    bot.send_document(update.message.chat_id, file)
+    send_document(bot, update, answer)
 
 
 # Ответ на текстовое сообщение
 def text_message(bot: Bot, update: Update):
+    logger.info("Type message: text")
     bot_answer(bot, update, update.message.text)
 
 
 # Ответ на голосовое сообщение
 def audio_message(bot: Bot, update: Update):
+    logger.info("Type message: audio")
     recognizer = sr.Recognizer()
     fileID = update.message.voice.file_id
     file = bot.get_file(fileID)
@@ -217,7 +250,7 @@ def audio_message(bot: Bot, update: Update):
         with sr.WavFile('audio.wav') as source:
             audio = recognizer.record(source)
             text = recognizer.recognize_google(audio, language='ru_RU').lower()
-        bot_answer(bot, update, text)
+            bot_answer(bot, update, text)
     except sr.UnknownValueError:
         update.message.reply_text('Извините, не понял что вы сказали.')
 
@@ -244,6 +277,7 @@ def main():
     dp = updater.dispatcher
     dp.add_handler(CommandHandler("start", user_help))
     dp.add_handler(CommandHandler("help", user_help))
+    dp.add_handler(CommandHandler("documents", user_documents))
     dp.add_handler(MessageHandler(Filters.voice & ~Filters.command, audio_message))
     dp.add_handler(MessageHandler(Filters.text & ~Filters.command, text_message))
 
