@@ -1,0 +1,665 @@
+2021-03-30 10:37:38,300 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:37:38,550 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:37:49,136 - Your_assistant - INFO - Rules
+2021-03-30 10:37:49,137 - Your_assistant - INFO - Generate model
+2021-03-30 10:37:50,270 - Your_assistant - INFO - Default answer
+2021-03-30 10:38:00,612 - Your_assistant - INFO - Rules
+2021-03-30 10:41:32,227 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:41:32,469 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:41:43,457 - Your_assistant - INFO - Rules
+2021-03-30 10:50:52,305 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:50:52,559 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:53:10,381 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:53:10,618 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:56:09,876 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:56:10,099 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:57:20,056 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:57:20,282 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 10:59:34,412 - Your_assistant - INFO - Launch chat bot
+2021-03-30 10:59:34,652 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:01:13,890 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:01:14,103 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:03:18,558 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:03:18,793 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:04:30,413 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:04:30,702 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:06:24,562 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:06:24,766 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:13:57,918 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:13:58,159 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:17:03,965 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:17:04,175 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:17:33,492 - Your_assistant - INFO - Rules
+2021-03-30 11:19:35,979 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:19:36,241 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:20:12,613 - Your_assistant - INFO - Rules
+2021-03-30 11:22:22,153 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:22:22,368 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:22:25,128 - Your_assistant - INFO - Rules
+2021-03-30 11:23:25,609 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:23:25,867 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:23:28,333 - Your_assistant - INFO - Rules
+2021-03-30 11:25:19,101 - Your_assistant - INFO - Launch chat bot
+2021-03-30 11:25:19,301 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 11:25:19,615 - Your_assistant - INFO - Rules
+2021-03-30 11:28:41,971 - Your_assistant - INFO - Rules
+2021-03-30 12:04:07,033 - Your_assistant - INFO - Launch chat bot
+2021-03-30 12:04:07,263 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 12:05:26,889 - Your_assistant - INFO - Rules
+2021-03-30 12:06:19,463 - Your_assistant - INFO - Rules
+2021-03-30 12:06:19,465 - Your_assistant - INFO - Generate model
+2021-03-30 12:06:20,625 - Your_assistant - INFO - Default answer
+2021-03-30 12:11:41,571 - Your_assistant - INFO - Launch chat bot
+2021-03-30 12:11:41,805 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 12:11:42,085 - Your_assistant - INFO - Rules
+2021-03-30 12:11:42,087 - Your_assistant - INFO - Generate model
+2021-03-30 12:11:43,178 - Your_assistant - INFO - Default answer
+2021-03-30 12:12:01,415 - Your_assistant - INFO - Rules
+2021-03-30 12:12:01,416 - Your_assistant - INFO - Generate model
+2021-03-30 12:12:02,564 - Your_assistant - INFO - Default answer
+2021-03-30 12:12:12,808 - Your_assistant - INFO - Rules
+2021-03-30 12:12:12,809 - Your_assistant - INFO - Generate model
+2021-03-30 12:12:13,904 - Your_assistant - INFO - Default answer
+2021-03-30 12:12:22,365 - Your_assistant - INFO - Rules
+2021-03-30 12:12:22,367 - Your_assistant - INFO - Generate model
+2021-03-30 12:12:23,462 - Your_assistant - INFO - Default answer
+2021-03-30 12:13:11,218 - Your_assistant - INFO - Rules
+2021-03-30 12:13:11,219 - Your_assistant - INFO - Generate model
+2021-03-30 12:13:12,322 - Your_assistant - INFO - Default answer
+2021-03-30 12:13:22,347 - Your_assistant - INFO - Rules
+2021-03-30 15:19:28,578 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:19:28,846 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:28:33,341 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:28:33,595 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:31:47,094 - Your_assistant - INFO - Rules
+2021-03-30 15:31:51,053 - Your_assistant - INFO - Rules
+2021-03-30 15:31:56,770 - Your_assistant - INFO - Rules
+2021-03-30 15:42:26,232 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:42:26,566 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:42:34,622 - Your_assistant - INFO - Rules
+2021-03-30 15:45:12,604 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:45:12,896 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:45:17,101 - Your_assistant - INFO - Rules
+2021-03-30 15:46:30,333 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:46:30,662 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:46:42,621 - Your_assistant - INFO - Rules
+2021-03-30 15:47:52,330 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:47:52,661 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:47:53,036 - Your_assistant - INFO - Rules
+2021-03-30 15:50:05,439 - Your_assistant - INFO - Launch chat bot
+2021-03-30 15:50:05,685 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 15:50:16,758 - Your_assistant - INFO - Rules
+2021-03-30 15:50:16,759 - Your_assistant - INFO - Generate model
+2021-03-30 15:50:17,922 - Your_assistant - INFO - Default answer
+2021-03-30 15:51:58,535 - Your_assistant - INFO - Rules
+2021-03-30 15:51:58,536 - Your_assistant - INFO - Generate model
+2021-03-30 15:51:59,811 - Your_assistant - INFO - Default answer
+2021-03-30 15:52:11,420 - Your_assistant - INFO - Rules
+2021-03-30 15:52:11,422 - Your_assistant - INFO - Generate model
+2021-03-30 15:52:12,538 - Your_assistant - INFO - Default answer
+2021-03-30 15:52:21,942 - Your_assistant - INFO - Rules
+2021-03-30 15:52:21,942 - Your_assistant - INFO - Generate model
+2021-03-30 15:52:23,036 - Your_assistant - INFO - Default answer
+2021-03-30 15:52:40,978 - Your_assistant - INFO - Rules
+2021-03-30 15:52:40,979 - Your_assistant - INFO - Generate model
+2021-03-30 15:52:42,104 - Your_assistant - INFO - Default answer
+2021-03-30 15:53:10,061 - Your_assistant - INFO - Rules
+2021-03-30 15:53:10,063 - Your_assistant - INFO - Generate model
+2021-03-30 15:53:11,195 - Your_assistant - INFO - Default answer
+2021-03-30 15:53:24,956 - Your_assistant - INFO - Rules
+2021-03-30 15:53:41,323 - Your_assistant - INFO - Rules
+2021-03-30 15:53:41,326 - Your_assistant - INFO - Generate model
+2021-03-30 15:53:42,437 - Your_assistant - INFO - Default answer
+2021-03-30 15:53:56,015 - Your_assistant - INFO - Rules
+2021-03-30 15:53:56,016 - Your_assistant - INFO - Generate model
+2021-03-30 15:53:57,110 - Your_assistant - INFO - Default answer
+2021-03-30 15:54:11,725 - Your_assistant - INFO - Rules
+2021-03-30 15:54:11,726 - Your_assistant - INFO - Generate model
+2021-03-30 15:54:12,891 - Your_assistant - INFO - Default answer
+2021-03-30 15:54:26,698 - Your_assistant - INFO - Rules
+2021-03-30 15:54:26,698 - Your_assistant - INFO - Generate model
+2021-03-30 15:54:27,806 - Your_assistant - INFO - Default answer
+2021-03-30 15:55:23,097 - Your_assistant - INFO - Rules
+2021-03-30 16:15:40,537 - Your_assistant - INFO - Launch chat bot
+2021-03-30 16:15:40,781 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 16:17:14,646 - Your_assistant - INFO - Sending documents
+2021-03-30 16:17:32,856 - Your_assistant - INFO - Type message: text
+2021-03-30 16:17:33,370 - Your_assistant - INFO - Rules
+2021-03-30 16:17:33,706 - Your_assistant - INFO - Sending document(-s)
+2021-03-30 16:17:58,103 - Your_assistant - INFO - Type message: text
+2021-03-30 16:17:58,371 - Your_assistant - INFO - Rules
+2021-03-30 16:17:58,702 - Your_assistant - INFO - Sending document(-s)
+2021-03-30 16:18:37,495 - Your_assistant - INFO - Type message: audio
+2021-03-30 16:18:39,160 - Your_assistant - INFO - Rules
+2021-03-30 16:18:39,290 - Your_assistant - INFO - Sending document(-s)
+2021-03-30 16:56:14,937 - Your_assistant - INFO - Launch chat bot
+2021-03-30 16:56:15,299 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-03-30 16:56:24,424 - Your_assistant - INFO - Sending documents
+2021-04-06 23:15:22,837 - Your_assistant - INFO - Launch chat bot
+2021-04-06 23:15:23,250 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-06 23:19:34,959 - Your_assistant - INFO - Launch chat bot
+2021-04-06 23:19:35,218 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-06 23:20:20,921 - Your_assistant - INFO - Sending documents
+2021-04-07 10:15:44,657 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:15:44,952 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:20:07,863 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:20:08,146 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:28:26,734 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:28:26,955 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:28:35,064 - Your_assistant - INFO - Type message: text
+2021-04-07 10:28:35,271 - Your_assistant - INFO - Rules
+2021-04-07 10:28:35,272 - Your_assistant - INFO - Generate model
+2021-04-07 10:28:36,409 - Your_assistant - INFO - Default answer
+2021-04-07 10:29:53,688 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:29:53,919 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:40:48,855 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:40:49,126 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:54:14,987 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:54:15,238 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 10:56:00,622 - Your_assistant - INFO - Launch chat bot
+2021-04-07 10:56:00,851 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 11:19:53,472 - Your_assistant - INFO - Launch chat bot
+2021-04-07 11:19:53,763 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 11:20:34,190 - Your_assistant - INFO - Command need:[Errno 2] No such file or directory: './commands/need.txt'
+2021-04-07 11:27:02,831 - Your_assistant - INFO - Launch chat bot
+2021-04-07 11:27:03,066 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 11:27:07,074 - Your_assistant - INFO - Command need: [Errno 2] No such file or directory: './commands/need.txt'
+2021-04-07 12:33:48,785 - Your_assistant - INFO - Launch chat bot
+2021-04-07 12:33:49,036 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 12:40:52,171 - Your_assistant - INFO - Launch chat bot
+2021-04-07 12:40:52,441 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 12:41:06,157 - Your_assistant - INFO - Type message: text
+2021-04-07 12:41:09,706 - Your_assistant - INFO - Type message: text
+2021-04-07 15:13:40,424 - Your_assistant - INFO - Launch chat bot
+2021-04-07 15:13:40,801 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 15:14:20,074 - Your_assistant - INFO - Type message: text
+2021-04-07 15:14:45,606 - Your_assistant - INFO - Type message: text
+2021-04-07 15:15:19,162 - Your_assistant - INFO - Type message: text
+2021-04-07 15:15:30,207 - Your_assistant - INFO - Type message: text
+2021-04-07 15:15:30,452 - Your_assistant - INFO - Rules
+2021-04-07 15:15:30,454 - Your_assistant - INFO - Generate model
+2021-04-07 15:15:31,576 - Your_assistant - INFO - Default answer
+2021-04-07 15:15:39,816 - Your_assistant - INFO - Type message: text
+2021-04-07 15:15:40,016 - Your_assistant - INFO - Rules
+2021-04-07 15:15:40,016 - Your_assistant - INFO - Generate model
+2021-04-07 15:15:41,118 - Your_assistant - INFO - Default answer
+2021-04-07 15:15:51,090 - Your_assistant - INFO - Type message: text
+2021-04-07 15:15:51,302 - Your_assistant - INFO - Rules
+2021-04-07 15:15:51,304 - Your_assistant - INFO - Generate model
+2021-04-07 15:15:52,415 - Your_assistant - INFO - Default answer
+2021-04-07 15:16:12,736 - Your_assistant - INFO - Type message: text
+2021-04-07 15:16:12,911 - Your_assistant - INFO - Rules
+2021-04-07 15:16:12,912 - Your_assistant - INFO - Generate model
+2021-04-07 15:16:14,073 - Your_assistant - INFO - Default answer
+2021-04-07 15:16:26,778 - Your_assistant - INFO - Type message: text
+2021-04-07 15:16:26,936 - Your_assistant - INFO - Rules
+2021-04-07 15:16:26,936 - Your_assistant - INFO - Generate model
+2021-04-07 15:16:28,059 - Your_assistant - INFO - Default answer
+2021-04-07 15:16:41,028 - Your_assistant - INFO - Type message: text
+2021-04-07 15:16:41,160 - Your_assistant - INFO - Rules
+2021-04-07 15:16:41,467 - Your_assistant - INFO - Sending document(-s)
+2021-04-07 15:17:40,600 - Your_assistant - INFO - Type message: text
+2021-04-07 15:17:40,785 - Your_assistant - INFO - Rules
+2021-04-07 15:17:41,034 - Your_assistant - INFO - Sending document(-s)
+2021-04-07 15:18:45,599 - Your_assistant - INFO - Launch chat bot
+2021-04-07 15:18:45,911 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-07 15:19:02,015 - Your_assistant - INFO - Type message: text
+2021-04-07 15:19:02,172 - Your_assistant - INFO - Rules
+2021-04-07 15:19:02,502 - Your_assistant - INFO - Sending document(-s)
+2021-04-08 10:22:45,898 - Your_assistant - INFO - Launch chat bot
+2021-04-08 10:22:46,161 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 10:23:20,447 - Your_assistant - INFO - Type message: text
+2021-04-08 10:23:20,657 - Your_assistant - INFO - Rules
+2021-04-08 10:23:31,206 - Your_assistant - INFO - Type message: text
+2021-04-08 10:23:31,310 - Your_assistant - INFO - Rules
+2021-04-08 10:38:55,353 - Your_assistant - INFO - Launch chat bot
+2021-04-08 10:38:55,627 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 10:39:10,403 - Your_assistant - INFO - Type message: text
+2021-04-08 10:39:10,536 - Your_assistant - INFO - Rules
+2021-04-08 10:43:03,961 - Your_assistant - INFO - Launch chat bot
+2021-04-08 10:43:04,200 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 10:43:07,571 - Your_assistant - INFO - Type message: text
+2021-04-08 10:43:07,745 - Your_assistant - INFO - Rules
+2021-04-08 10:43:07,747 - Your_assistant - INFO - Generate model
+2021-04-08 10:43:08,877 - Your_assistant - INFO - Default answer
+2021-04-08 10:45:46,780 - Your_assistant - INFO - Launch chat bot
+2021-04-08 10:45:46,993 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 10:45:53,323 - Your_assistant - INFO - Type message: text
+2021-04-08 10:45:53,530 - Your_assistant - INFO - Rules
+2021-04-08 10:45:53,532 - Your_assistant - INFO - Generate model
+2021-04-08 10:45:54,640 - Your_assistant - INFO - Default answer
+2021-04-08 10:46:04,176 - Your_assistant - INFO - Type message: text
+2021-04-08 10:46:04,296 - Your_assistant - INFO - Rules
+2021-04-08 10:46:04,297 - Your_assistant - INFO - Generate model
+2021-04-08 10:46:05,444 - Your_assistant - INFO - Default answer
+2021-04-08 11:12:15,506 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:12:15,757 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:12:27,808 - Your_assistant - INFO - Rules
+2021-04-08 11:12:27,811 - Your_assistant - INFO - Generate model
+2021-04-08 11:12:28,958 - Your_assistant - INFO - Default answer
+2021-04-08 11:14:50,169 - Your_assistant - INFO - Rules
+2021-04-08 11:14:50,171 - Your_assistant - INFO - Generate model
+2021-04-08 11:14:51,363 - Your_assistant - INFO - Default answer
+2021-04-08 11:17:58,149 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:17:58,407 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:18:18,044 - Your_assistant - INFO - Rules
+2021-04-08 11:18:18,047 - Your_assistant - INFO - Generate model
+2021-04-08 11:18:19,126 - Your_assistant - INFO - Default answer
+2021-04-08 11:18:27,797 - Your_assistant - INFO - Rules
+2021-04-08 11:18:27,799 - Your_assistant - INFO - Generate model
+2021-04-08 11:18:28,903 - Your_assistant - INFO - Default answer
+2021-04-08 11:19:15,574 - Your_assistant - INFO - Rules
+2021-04-08 11:19:15,576 - Your_assistant - INFO - Generate model
+2021-04-08 11:19:16,686 - Your_assistant - INFO - Default answer
+2021-04-08 11:26:07,739 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:26:07,985 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:26:17,897 - Your_assistant - INFO - Rules
+2021-04-08 11:26:17,900 - Your_assistant - INFO - Generate model
+2021-04-08 11:26:18,989 - Your_assistant - INFO - Default answer
+2021-04-08 11:26:47,403 - Your_assistant - INFO - Rules
+2021-04-08 11:26:47,404 - Your_assistant - INFO - Audio message: [Errno 13] Permission denied: './reports/requests.csv'
+2021-04-08 11:27:11,175 - Your_assistant - INFO - Rules
+2021-04-08 11:27:11,178 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f44b' in position 73: character maps to <undefined>
+2021-04-08 11:27:15,162 - Your_assistant - INFO - Rules
+2021-04-08 11:27:15,164 - Your_assistant - INFO - Generate model
+2021-04-08 11:27:16,258 - Your_assistant - INFO - Default answer
+2021-04-08 11:27:25,532 - Your_assistant - INFO - Rules
+2021-04-08 11:28:56,491 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:28:56,734 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:29:00,810 - Your_assistant - INFO - Rules
+2021-04-08 11:29:00,811 - Your_assistant - INFO - Generate model
+2021-04-08 11:29:01,908 - Your_assistant - INFO - Default answer
+2021-04-08 11:29:28,889 - Your_assistant - INFO - Rules
+2021-04-08 11:29:28,890 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f44b' in position 73: character maps to <undefined>
+2021-04-08 11:29:41,622 - Your_assistant - INFO - Rules
+2021-04-08 11:29:41,625 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f9fe' in position 73: character maps to <undefined>
+2021-04-08 11:30:17,509 - Your_assistant - INFO - Rules
+2021-04-08 11:30:17,509 - Your_assistant - INFO - Generate model
+2021-04-08 11:30:18,668 - Your_assistant - INFO - Default answer
+2021-04-08 11:32:35,974 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:32:36,220 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:33:05,024 - Your_assistant - INFO - Rules
+2021-04-08 11:33:05,025 - Your_assistant - INFO - Generate model
+2021-04-08 11:33:06,153 - Your_assistant - INFO - Default answer
+2021-04-08 11:33:22,111 - Your_assistant - INFO - Rules
+2021-04-08 11:33:22,114 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f9fe' in position 68: character maps to <undefined>
+2021-04-08 11:33:34,062 - Your_assistant - INFO - Rules
+2021-04-08 11:33:34,062 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f9fe' in position 73: character maps to <undefined>
+2021-04-08 11:33:49,139 - Your_assistant - INFO - Rules
+2021-04-08 11:33:49,140 - Your_assistant - INFO - Generate model
+2021-04-08 11:33:50,284 - Your_assistant - INFO - Default answer
+2021-04-08 11:35:48,977 - Your_assistant - INFO - Rules
+2021-04-08 11:35:48,980 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f4c4' in position 69: character maps to <undefined>
+2021-04-08 11:36:02,368 - Your_assistant - INFO - Rules
+2021-04-08 11:36:02,369 - Your_assistant - INFO - Audio message: 'charmap' codec can't encode character '\U0001f4c4' in position 68: character maps to <undefined>
+2021-04-08 11:36:09,227 - Your_assistant - INFO - Rules
+2021-04-08 11:36:09,229 - Your_assistant - INFO - Generate model
+2021-04-08 11:36:10,348 - Your_assistant - INFO - Default answer
+2021-04-08 11:47:29,955 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:47:30,200 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:53:14,518 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:53:14,768 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 11:56:40,321 - Your_assistant - INFO - Launch chat bot
+2021-04-08 11:56:40,604 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 12:03:26,358 - Your_assistant - INFO - Launch chat bot
+2021-04-08 12:03:26,606 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 12:07:00,513 - Your_assistant - INFO - Launch chat bot
+2021-04-08 12:07:00,733 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 12:10:03,165 - Your_assistant - INFO - Launch chat bot
+2021-04-08 12:10:03,454 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-08 12:11:17,161 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f4c4' in position 80: character maps to <undefined>
+2021-04-09 09:52:54,838 - Your_assistant - INFO - Launch chat bot
+2021-04-09 09:52:55,153 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 09:55:46,705 - Your_assistant - INFO - Launch chat bot
+2021-04-09 09:55:46,950 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:13:16,577 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:13:16,845 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:16:50,758 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:16:50,991 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:28:59,387 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:28:59,672 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:31:09,747 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:31:10,026 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:31:18,264 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:31:18,265 - Your_assistant - INFO - Send document(-s): 'NoneType' object has no attribute 'chat_id'
+2021-04-09 10:31:20,297 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:31:20,298 - Your_assistant - INFO - Send document(-s): 'NoneType' object has no attribute 'chat_id'
+2021-04-09 10:39:18,462 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:39:18,735 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:39:30,649 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:39:32,194 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:53:18,406 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:53:18,650 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 10:53:50,040 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:53:50,041 - Your_assistant - INFO - Send document(-s): 'NoneType' object has no attribute 'message'
+2021-04-09 10:53:59,471 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:55:21,816 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 10:57:43,944 - Your_assistant - INFO - Launch chat bot
+2021-04-09 10:57:44,207 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:02:08,875 - Your_assistant - INFO - Launch chat bot
+2021-04-09 11:02:09,103 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:03:42,628 - Your_assistant - INFO - Launch chat bot
+2021-04-09 11:03:42,903 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:04:12,979 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:04:19,097 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:13:39,896 - Your_assistant - INFO - Launch chat bot
+2021-04-09 11:13:40,168 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:14:17,068 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:14:22,591 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:17:23,117 - Your_assistant - INFO - Launch chat bot
+2021-04-09 11:17:23,385 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:17:34,625 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:17:39,577 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:31:14,278 - Your_assistant - INFO - Launch chat bot
+2021-04-09 11:31:14,512 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 11:31:26,192 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 11:31:30,606 - Your_assistant - INFO - Sending document(-s)
+2021-04-09 12:09:54,130 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:09:54,392 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:10:06,006 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f44b' in position 61: character maps to <undefined>
+2021-04-09 12:10:45,241 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f44b' in position 62: character maps to <undefined>
+2021-04-09 12:10:56,162 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f9fe' in position 54: character maps to <undefined>
+2021-04-09 12:13:10,280 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:13:10,510 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:16:47,331 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:16:47,604 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:16:58,554 - Your_assistant - INFO - Save statistics: [Errno 13] Permission denied: './reports/requests.csv'
+2021-04-09 12:19:30,463 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:19:31,119 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:19:51,752 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f9fe' in position 54: character maps to <undefined>
+2021-04-09 12:24:07,438 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:24:07,689 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:27:42,295 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:27:42,556 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:30:04,331 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:30:04,604 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:30:12,668 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode characters in position 43-51: character maps to <undefined>
+2021-04-09 12:31:30,785 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:31:31,004 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:33:52,401 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:33:52,622 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:34:09,688 - Your_assistant - INFO - Save statistics: 'latin-1' codec can't encode characters in position 43-51: ordinal not in range(256)
+2021-04-09 12:37:31,816 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:37:32,039 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:42:07,223 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:42:07,470 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 12:44:16,792 - Your_assistant - INFO - Launch chat bot
+2021-04-09 12:44:17,071 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:18:35,622 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:18:35,918 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:18:44,207 - Your_assistant - INFO - Save statistics: 'ascii' codec can't encode characters in position 43-51: ordinal not in range(128)
+2021-04-09 14:21:14,917 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:21:15,159 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:34:45,951 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:34:46,214 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:37:10,949 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:37:11,259 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:37:32,839 - Your_assistant - INFO - Save statistics: 'charmap' codec can't encode character '\U0001f9fe' in position 54: character maps to <undefined>
+2021-04-09 14:45:29,268 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:45:29,552 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 14:52:35,448 - Your_assistant - INFO - Launch chat bot
+2021-04-09 14:52:35,795 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 15:00:06,090 - Your_assistant - INFO - Launch chat bot
+2021-04-09 15:00:06,383 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 20:43:21,256 - Your_assistant - INFO - Launch chat bot
+2021-04-09 20:43:21,522 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 20:46:39,464 - Your_assistant - INFO - Launch chat bot
+2021-04-09 20:46:39,718 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 20:50:50,608 - Your_assistant - INFO - Launch chat bot
+2021-04-09 20:50:50,875 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 22:27:50,806 - Your_assistant - INFO - Launch chat bot
+2021-04-09 22:27:51,084 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 22:41:01,785 - Your_assistant - INFO - Launch chat bot
+2021-04-09 22:41:02,022 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 22:45:27,898 - Your_assistant - INFO - Launch chat bot
+2021-04-09 22:45:28,140 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 22:47:34,626 - Your_assistant - INFO - Launch chat bot
+2021-04-09 22:47:34,859 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 23:17:59,681 - Your_assistant - INFO - Launch chat bot
+2021-04-09 23:18:00,141 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 23:20:55,585 - Your_assistant - INFO - Launch chat bot
+2021-04-09 23:20:55,859 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-09 23:24:35,375 - Your_assistant - INFO - Launch chat bot
+2021-04-09 23:24:35,588 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-10 10:08:05,698 - Your_assistant - INFO - Launch chat bot
+2021-04-10 10:08:05,993 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-10 10:25:07,077 - Your_assistant - INFO - Launch chat bot
+2021-04-10 10:25:07,311 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-10 10:25:46,892 - Your_assistant - INFO - Sending document(-s)
+2021-04-10 10:25:50,467 - Your_assistant - INFO - Sending document(-s)
+2021-04-11 08:37:11,472 - Your_assistant - INFO - Launch chat bot
+2021-04-11 08:37:11,738 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-11 11:53:46,045 - Your_assistant - INFO - Launch chat bot
+2021-04-11 11:53:46,293 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-11 15:15:58,358 - Your_assistant - INFO - Launch chat bot
+2021-04-11 15:15:58,627 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-12 08:01:45,185 - Your_assistant - INFO - Launch chat bot
+2021-04-12 08:01:45,425 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'ISIT_talker', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 11:40:32,850 - Your_assistant - INFO - Launch chat bot
+2021-04-23 11:40:33,123 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:07:59,458 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:07:59,680 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:10:58,481 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:10:58,717 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:21:08,848 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:21:09,115 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:22:15,684 - Your_assistant - INFO - Sending document(-s)
+2021-04-23 12:23:50,813 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:23:50,994 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:31:34,620 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:31:34,862 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:35:05,051 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:35:05,292 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:35:27,382 - Your_assistant - INFO - Admin commands: [Errno 2] No such file or directory: './commands/admin_commands.txt'
+2021-04-23 12:39:24,576 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:39:24,778 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:42:32,585 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:42:32,843 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:44:16,148 - Your_assistant - INFO - Sending logs
+2021-04-23 12:44:21,035 - Your_assistant - INFO - Sending stats
+2021-04-23 12:44:21,035 - Your_assistant - INFO - Sending stats: 'stats'
+2021-04-23 12:45:09,736 - Your_assistant - INFO - Sending stats
+2021-04-23 12:45:09,736 - Your_assistant - INFO - Sending stats: 'stats'
+2021-04-23 12:47:16,804 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:47:17,029 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:48:06,884 - Your_assistant - INFO - Sending logs
+2021-04-23 12:48:09,110 - Your_assistant - INFO - Sending stats
+2021-04-23 12:48:09,110 - Your_assistant - INFO - Sending stats: 'stats'
+2021-04-23 12:50:03,704 - Your_assistant - INFO - Launch chat bot
+2021-04-23 12:50:03,958 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 12:50:41,644 - Your_assistant - INFO - Sending logs
+2021-04-23 12:50:43,751 - Your_assistant - INFO - Sending stats
+2021-04-23 14:05:13,008 - Your_assistant - INFO - Launch chat bot
+2021-04-23 14:05:13,290 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 14:07:04,020 - Your_assistant - INFO - Sending logs
+2021-04-23 14:07:06,734 - Your_assistant - INFO - Sending stats
+2021-04-23 15:05:13,554 - Your_assistant - INFO - Launch chat bot
+2021-04-23 15:05:13,851 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-23 15:06:25,227 - Your_assistant - INFO - Enter admin, chat_id:797103302
+2021-04-23 15:06:52,428 - Your_assistant - INFO - Sending message to user.
+2021-04-23 15:07:51,832 - Your_assistant - INFO - Exit admin, chat_id:797103302
+2021-04-25 14:55:54,879 - Your_assistant - INFO - Launch chat bot
+2021-04-25 14:55:55,165 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-25 15:29:39,236 - Your_assistant - INFO - Launch chat bot
+2021-04-25 15:29:39,493 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-26 10:23:55,371 - Your_assistant - INFO - Launch chat bot
+2021-04-26 10:23:55,656 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-26 14:51:30,134 - Your_assistant - INFO - Launch chat bot
+2021-04-26 14:51:30,400 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-26 14:53:29,995 - Your_assistant - INFO - Sending document(-s)
+2021-04-26 14:53:34,695 - Your_assistant - INFO - Sending document(-s)
+2021-04-26 15:19:12,111 - Your_assistant - INFO - Launch chat bot
+2021-04-26 15:19:12,359 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-27 20:54:57,960 - Your_assistant - INFO - Launch chat bot
+2021-04-27 20:54:58,257 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-27 21:03:05,745 - Your_assistant - INFO - Launch chat bot
+2021-04-27 21:03:05,990 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 10:26:42,212 - Your_assistant - INFO - Launch chat bot
+2021-04-28 10:26:42,540 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 10:35:29,279 - Your_assistant - INFO - Sending document(-s)
+2021-04-28 11:09:16,565 - Your_assistant - INFO - Launch chat bot
+2021-04-28 11:09:16,892 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 11:14:40,818 - Your_assistant - INFO - Launch chat bot
+2021-04-28 11:14:41,110 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 11:46:48,325 - Your_assistant - INFO - Launch chat bot
+2021-04-28 11:46:48,684 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:09:10,846 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:09:11,154 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:14:52,421 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:14:52,715 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:29:09,074 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:29:09,351 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:44:27,982 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:44:28,412 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:50:59,463 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:50:59,724 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 12:57:19,083 - Your_assistant - INFO - Launch chat bot
+2021-04-28 12:57:19,420 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 13:03:32,356 - Your_assistant - INFO - Launch chat bot
+2021-04-28 13:03:32,612 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 15:04:47,505 - Your_assistant - INFO - Launch chat bot
+2021-04-28 15:04:47,817 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 15:14:48,336 - Your_assistant - INFO - Launch chat bot
+2021-04-28 15:14:48,626 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 15:27:58,553 - Your_assistant - INFO - Launch chat bot
+2021-04-28 15:27:58,860 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 15:38:52,485 - Your_assistant - INFO - Launch chat bot
+2021-04-28 15:38:52,731 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 15:46:25,563 - Your_assistant - INFO - Launch chat bot
+2021-04-28 15:46:25,835 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 22:13:51,409 - Your_assistant - INFO - Launch chat bot
+2021-04-28 22:13:51,691 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-04-28 22:27:15,348 - Your_assistant - INFO - Launch chat bot
+2021-04-28 22:27:15,605 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 09:42:15,480 - Your_assistant - INFO - Launch chat bot
+2021-05-01 09:42:15,730 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 09:59:48,778 - Your_assistant - INFO - Launch chat bot
+2021-05-01 09:59:49,028 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 10:00:17,573 - Your_assistant - INFO - Sending document(-s)
+2021-05-01 20:05:48,479 - Your_assistant - INFO - Launch chat bot
+2021-05-01 20:05:48,796 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 20:25:11,782 - Your_assistant - INFO - Launch chat bot
+2021-05-01 20:25:12,049 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 20:57:13,290 - Your_assistant - INFO - Launch chat bot
+2021-05-01 20:57:13,583 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 21:12:13,930 - Your_assistant - INFO - Launch chat bot
+2021-05-01 21:12:14,230 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 21:30:55,203 - Your_assistant - INFO - Launch chat bot
+2021-05-01 21:30:55,485 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-01 22:09:20,530 - Your_assistant - INFO - Launch chat bot
+2021-05-01 22:09:20,812 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-05 17:25:53,711 - Your_assistant - INFO - Launch chat bot
+2021-05-05 17:25:53,986 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-05 17:27:36,713 - Your_assistant - INFO - Sending document(-s)
+2021-05-05 17:34:52,847 - Your_assistant - INFO - Launch chat bot
+2021-05-05 17:34:53,113 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-05 18:23:14,248 - Your_assistant - INFO - Launch chat bot
+2021-05-05 18:23:14,510 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-05 18:31:49,967 - Your_assistant - INFO - Launch chat bot
+2021-05-05 18:31:50,226 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-10 15:01:02,145 - Your_assistant - INFO - Launch chat bot
+2021-05-10 15:01:02,552 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-10 15:20:41,640 - Your_assistant - INFO - Launch chat bot
+2021-05-10 15:20:41,874 - Your_assistant - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-12 14:55:36,305 - Normobot - INFO - Launch chat bot
+2021-05-12 14:55:36,601 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-12 14:55:54,589 - Normobot - INFO - Command need
+2021-05-12 14:55:55,935 - Normobot - INFO - Command mistakes
+2021-05-12 14:56:23,235 - Normobot - INFO - Voice message processing
+2021-05-12 14:56:24,886 - Normobot - INFO - Save statistics
+2021-05-12 14:56:52,535 - Normobot - INFO - Attempt to log in to Admin mode
+2021-05-12 14:57:08,157 - Normobot - INFO - Enter admin, chat_id:797103302
+2021-05-12 14:57:13,164 - Normobot - INFO - Sending stats
+2021-05-12 14:57:15,992 - Normobot - INFO - Exit admin, chat_id:797103302
+2021-05-13 15:16:26,068 - Normobot - INFO - Launch chat bot
+2021-05-15 15:32:14,106 - Normobot - INFO - Launch chat bot
+2021-05-15 15:32:14,378 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-15 15:33:55,668 - Normobot - INFO - Command need
+2021-05-15 15:34:07,765 - Normobot - INFO - Command need
+2021-05-15 15:34:27,440 - Normobot - INFO - Command mistakes
+2021-05-15 15:34:43,899 - Normobot - INFO - Save statistics
+2021-05-15 15:34:59,736 - Normobot - INFO - Sending document(-s):  Положение о порядке проверки выпускных квалификационных работ.
+2021-05-18 21:29:38,796 - Normobot - INFO - Launch chat bot
+2021-05-18 21:29:39,081 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-18 21:35:01,206 - Normobot - INFO - Launch chat bot
+2021-05-18 21:35:01,467 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-18 21:35:01,614 - Normobot - INFO - Voice message processing
+2021-05-18 21:35:04,819 - Normobot - INFO - Save statistics
+2021-05-18 21:35:04,915 - Normobot - INFO - Voice message processing
+2021-05-18 21:35:07,286 - Normobot - INFO - Save statistics
+2021-05-18 21:35:07,428 - Normobot - INFO - Voice message processing
+2021-05-18 21:35:08,720 - Normobot - INFO - Save statistics
+2021-05-18 21:35:08,976 - Normobot - INFO - Save statistics
+2021-05-18 21:35:20,632 - Normobot - INFO - Voice message processing
+2021-05-18 21:35:21,565 - Normobot - INFO - Save statistics
+2021-05-18 21:35:26,894 - Normobot - INFO - Voice message processing
+2021-05-18 21:35:28,646 - Normobot - INFO - Save statistics
+2021-05-18 21:36:04,468 - Normobot - INFO - Voice message processing
+2021-05-18 21:36:06,961 - Normobot - INFO - Save statistics
+2021-05-18 21:36:12,627 - Normobot - INFO - Voice message processing
+2021-05-18 21:36:13,906 - Normobot - INFO - Save statistics
+2021-05-18 21:39:29,121 - Normobot - INFO - Voice message processing
+2021-05-18 21:39:30,442 - Normobot - INFO - Save statistics
+2021-05-18 21:39:58,212 - Normobot - INFO - Voice message processing
+2021-05-18 21:39:59,567 - Normobot - INFO - Save statistics
+2021-05-18 21:40:05,342 - Normobot - INFO - Voice message processing
+2021-05-18 21:40:07,835 - Normobot - INFO - Save statistics
+2021-05-18 21:40:38,573 - Normobot - INFO - Voice message processing
+2021-05-18 21:40:40,013 - Normobot - INFO - Save statistics
+2021-05-18 21:43:41,952 - Normobot - INFO - Attempt to log in to Admin mode
+2021-05-18 21:44:07,199 - Normobot - INFO - Enter admin, chat_id:797103302
+2021-05-18 21:44:12,271 - Normobot - INFO - Sending logs
+2021-05-18 21:44:12,271 - Normobot - INFO - Sending logs: [Errno 2] No such file or directory: './reports/comand.log'
+2021-05-18 21:49:22,534 - Normobot - INFO - Launch chat bot
+2021-05-18 21:49:22,774 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-18 21:49:32,578 - Normobot - INFO - Attempt to log in to Admin mode
+2021-05-18 21:49:37,917 - Normobot - INFO - Enter admin, chat_id:797103302
+2021-05-18 21:49:39,788 - Normobot - INFO - Sending logs
+2021-05-18 21:49:42,889 - Normobot - INFO - Sending stats
+2021-05-18 21:50:01,511 - Normobot - INFO - Sending message to user from admin
+2021-05-18 21:53:05,267 - Normobot - INFO - Sending message to user from admin, chat_id: 797103302, text: Привет!
+2021-05-18 21:53:05,615 - Normobot - INFO - Sending message to user.
+2021-05-18 21:53:13,550 - Normobot - INFO - Exit admin, chat_id:797103302
+2021-05-19 09:18:22,852 - Normobot - INFO - Launch chat bot
+2021-05-19 09:18:23,159 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-19 09:20:34,216 - Normobot - INFO - Save statistics
+2021-05-19 09:20:34,224 - Normobot - INFO - Save statistics: 'mbcs' codec can't encode characters in position 0--1: invalid character
+2021-05-19 09:20:39,540 - Normobot - INFO - Save statistics
+2021-05-19 09:20:39,540 - Normobot - INFO - Save statistics: 'mbcs' codec can't encode characters in position 0--1: invalid character
+2021-05-19 09:20:46,591 - Normobot - INFO - Save statistics
+2021-05-19 09:20:46,592 - Normobot - INFO - Save statistics: 'mbcs' codec can't encode characters in position 0--1: invalid character
+2021-05-19 09:22:15,185 - Normobot - INFO - Save statistics
+2021-05-19 09:22:15,185 - Normobot - INFO - Save statistics: 'mbcs' codec can't encode characters in position 0--1: invalid character
+2021-05-19 09:22:36,890 - Normobot - INFO - Voice message processing
+2021-05-19 09:22:38,239 - Normobot - INFO - Save statistics
+2021-05-19 09:22:38,240 - Normobot - INFO - Save statistics: 'mbcs' codec can't encode characters in position 0--1: invalid character
+2021-05-19 09:27:35,176 - Normobot - INFO - Launch chat bot
+2021-05-19 09:27:35,460 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-19 10:01:40,868 - Normobot - INFO - Save statistics
+2021-05-19 10:01:40,869 - Normobot - INFO - Save statistics: [Errno 13] Permission denied: './reports/requests.csv'
+2021-05-19 10:01:48,318 - Normobot - INFO - Save statistics
+2021-05-19 10:01:48,319 - Normobot - INFO - Save statistics: [Errno 13] Permission denied: './reports/requests.csv'
+2021-05-19 10:01:58,549 - Normobot - INFO - Voice message processing
+2021-05-19 10:02:01,760 - Normobot - INFO - Save statistics
+2021-05-19 10:02:01,760 - Normobot - INFO - Save statistics: [Errno 13] Permission denied: './reports/requests.csv'
+2021-05-19 10:02:06,211 - Normobot - INFO - Voice message processing
+2021-05-19 10:02:07,273 - Normobot - INFO - Save statistics
+2021-05-19 10:02:07,273 - Normobot - INFO - Save statistics: [Errno 13] Permission denied: './reports/requests.csv'
+2021-05-19 10:02:41,334 - Normobot - INFO - Save statistics
+2021-05-19 10:02:46,535 - Normobot - INFO - Save statistics
+2021-05-19 10:02:52,028 - Normobot - INFO - Voice message processing
+2021-05-19 10:02:53,050 - Normobot - INFO - Save statistics
+2021-05-28 11:07:34,546 - Normobot - INFO - Launch chat bot
+2021-05-28 11:07:34,912 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-28 11:27:54,301 - Normobot - INFO - Launch chat bot
+2021-05-28 11:27:54,727 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}
+2021-05-28 11:29:31,500 - Normobot - INFO - Save statistics
+2021-05-28 11:29:39,168 - Normobot - INFO - Save statistics
+2021-05-28 11:29:44,828 - Normobot - INFO - Save statistics
+2021-05-28 11:29:51,069 - Normobot - INFO - Save statistics
+2021-05-28 11:29:55,390 - Normobot - INFO - Save statistics
+2021-05-28 11:30:12,900 - Normobot - INFO - Save statistics
+2021-05-28 11:30:37,222 - Normobot - INFO - Save statistics
+2021-05-28 11:31:00,334 - Normobot - INFO - Save statistics
+2021-06-14 10:36:13,014 - Normobot - INFO - Launch chat bot
+2021-06-14 10:36:13,399 - Normobot - INFO - Bot info: {'id': 1318466039, 'first_name': 'Normobot', 'is_bot': True, 'username': 'ISIT_talkerBot', 'can_join_groups': True, 'can_read_all_group_messages': False, 'supports_inline_queries': False}

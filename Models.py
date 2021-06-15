@@ -1,13 +1,16 @@
-from nltk import word_tokenize, edit_distance
 from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn.svm import LinearSVC
 from pyaspeller import YandexSpeller
 from pymystem3 import Mystem
 import random
+import string
+from nltk import word_tokenize, edit_distance
+# Dataset file
 from Config import BOT_CONFIG
 
 
-# Подготовка текста
+# Correction of grammatical errors
 def correct_spelling(text):
     speller = YandexSpeller()
     changes = {change['word']: change['s'][0] for change in speller.spell(text)}
@@ -16,39 +19,42 @@ def correct_spelling(text):
     return text
 
 
-# Преобразование слов к начальной форме
+# Lemmatization
 def form_of_word(text):
     m3 = Mystem()
     text = ''.join(m3.lemmatize(text))
     return text
 
 
-# Датасет для генеративной модели
-with open('dialogues.txt', encoding='utf-8') as f:
-    content = f.read()
+# Removing punctuation characters
+def remove_punctuation(text):
+    translator = str.maketrans('', '', string.punctuation)
+    return text.translate(translator)
 
+
+# Processing a dataset
+dataset = []  # [[x, y], [example, intent], ...]
+for intent, intent_data in BOT_CONFIG['intents'].items():
+    for ex in range(len(intent_data['examples'])):
+        intent_data['examples'][ex] = remove_punctuation(intent_data['examples'][ex])
+        intent_data['examples'][ex] = form_of_word(intent_data['examples'][ex])
+        dataset.append([intent_data['examples'][ex], intent])
+
+
+# Dataset for the model based on the Levenshtein distance
 dialogues = []  # [[Q, A], ...]
-
-# Разделение диалогов
-for dialogue_text in content.split('\n\n'):
-    replicas = dialogue_text.split('\n')
-    if len(replicas) >= 2:
-        # Берутся только первые две реплики
-        replicas = replicas[:2]
-        # Убираются " -" в начаое каждой строки
-        replicas = [replica[2:] for replica in replicas]
-        replicas[0] = replicas[0].lower().strip()
-        replicas[0] = form_of_word(replicas[0])
-        if replicas[0]:
+replicas = ['', '']
+for intent in BOT_CONFIG['intents'].values():
+    for example in intent['examples']:
+        for response in intent['responses']:
+            replicas[0] = example
+            replicas[1] = response
             dialogues.append(tuple(replicas))
-
-# Избавление от повторов
-dialogues = list(set(dialogues))
-
 qa_dataset = {}
 
-# Разбиение диалогов на словарь токенов(текстовых единиц), в котором ключи - это слова, а значения - это диалоги,
-# содержащие эти слова Это поможет ускорить выполнение программы
+
+# Splitting dialogs into a dictionary of tokens (text units), in which keys are words and values are dialogs,
+# containing these words. This will help speed up the execution of the program
 alphabet = 'йцукенгшщзхъфывапролджэёячсмитьбю'
 for question, answer in dialogues:
     tokens = word_tokenize(question)
@@ -58,59 +64,50 @@ for question, answer in dialogues:
             qa_dataset[word] = []
         qa_dataset[word].append((question, answer))
 
-dataset = []  # [[x, y], [example, intent], ...]
-
-for intent, intent_data in BOT_CONFIG['intents'].items():
-    for example in intent_data['examples']:
-        dataset.append([example, intent])
 
 X_text = [x for x, y in dataset]
 y = [y for x, y in dataset]
 
-# Векторизация
-vectorizer = CountVectorizer()
+# Vectorizer
+vectorizer = CountVectorizer(analyzer='char_wb', ngram_range=(2,3), max_df=0.85)
 X = vectorizer.fit_transform(X_text)
 
-# Классификация
-clf = LogisticRegression()
-clf.fit(X, y)
+# Classifier
+clf = LinearSVC(C=1.0, class_weight='balanced', max_iter=100)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.33, stratify=y)
+clf.fit(X_train.toarray(), y_train)
 
 
-# Классификация намерений
+# Classification of user intentions
 def get_intent(text):
     vector = vectorizer.transform([text])
     winner = clf.predict(vector)[0]
-    index = list(clf.classes_).index(winner)
-    proba = clf.predict_proba(vector)[0][index]
-    if proba > 0.3:
-        return winner
+    return winner
 
 
-# Выбор ответа для чат-бота
+# Selecting a response for a chatbot
 def get_response_by_intent(intent):
     candidates = BOT_CONFIG['intents'][intent]['responses']
     return random.choice(candidates)
 
 
-# Генеративная модель
-def generate_answer(text):
-    text = text.lower()
-    text = form_of_word(text)
+# Algorithm based on the Levenshtein distance
+def match(text):
     tokens = word_tokenize(text)
     words = [token for token in tokens if any(char in token for char in alphabet)]
     for word in words:
         if word in qa_dataset:
             for question, answer in qa_dataset[word]:
-                # Если текст пользователя и утверждение(вопрос) в словаре сильно отличаются по длине, то нет смысла применять
-                # Расстояние Левенштейна
+                # If the user's text and the statement (question) in the dictionary are very different in length, then it makes no sense to apply
+                # Levenshtein distance
                 if abs(len(text) - len(question)) / len(question) < 0.2:
-                    # Расстояние Левенштейна
+                    # Levenshtein distance
                     distance = edit_distance(text, question)
                     if distance / len(question) < 0.2:
-                        return answer
+                        return random.choice(answer)
 
 
-# Заглушка
+# Stubs
 def get_default_response():
     candidates = BOT_CONFIG['failure_phrases']
     return random.choice(candidates)
