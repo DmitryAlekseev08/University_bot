@@ -9,7 +9,7 @@ from telegram.utils.request import Request
 from Models import get_intent, get_response_by_intent, get_default_response, match, correct_spelling, remove_punctuation, form_of_word
 #from Autofill import conv_fill_title
 
-TG_TOKEN = "1318466039:AAEW3iVZehtjCSB4BBcuB3jPsYb6XRgiPYA"
+TG_TOKEN = "1111111111111111111111111111111111111111111111"
 # Logging Settings
 logging.config.fileConfig('logging.conf')
 logger = logging.getLogger("Normobot")
